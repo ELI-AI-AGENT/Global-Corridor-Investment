@@ -1,0 +1,56 @@
+body {
+    font-family: 'Inter', sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #0f0f0f;
+    color: #fff;
+  }
+  
+  header {
+    background: #111;
+    padding: 1rem;
+  }
+  
+  nav a {
+    color: #fff;
+    margin-right: 1.5rem;
+    text-decoration: none;
+  }
+  
+  .hero {
+    text-align: center;
+    padding: 5rem 1rem;
+    background: linear-gradient(135deg, #0ff, #08f);
+  }
+  
+  .cta-button {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 1rem 2rem;
+    background: #0ff;
+    color: #111;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 8px;
+  }
+  
+  .features {
+    display: flex;
+    justify-content: space-around;
+    margin: 3rem 1rem;
+  }
+  
+  .feature {
+    width: 30%;
+    background: #111;
+    padding: 1rem;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  footer {
+    background: #111;
+    padding: 2rem;
+    text-align: center;
+  }
+  
